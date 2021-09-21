@@ -1,5 +1,7 @@
-# Playground
+# Playground-Agreed version
 
-A place to play with `git`.
-Adding a new line here by Kishan
+A place to play with `git`. Burn it all.
+
 ### Fall 2021
+
+DOGECOIN RULES
